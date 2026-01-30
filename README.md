@@ -12,16 +12,13 @@ what i do
 tech stack
 
 **languages & frameworks**  
-kotlin · javascript · html/css · java · c/c++ · sql · dart  
-react · node.js · flutter
+kotlin · javascript · html/css · java · c/c++ · sql · dart · react · node.js · flutter
 
 **design & creative**  
 figma · adobe creative suite · procreate · canva · capcut
 
 **skills**  
-ui design · ux research · prototyping · web design  
-graphic design · branding · content creation · copywriting  
-motion design
+ui design · ux research · prototyping · web design · graphic design · branding · content creation · copywriting · motion design
 
 **tools & workflow**  
 git · github · agile · jest · java swing · monogame
