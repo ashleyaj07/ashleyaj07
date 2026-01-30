@@ -1,4 +1,4 @@
-## Hi there, I am Ashley.
+## Hi there, I'm Ashley.
 
 designer × developer  
 I like building things that *look good*, *Feel right*, and *actually work*.
