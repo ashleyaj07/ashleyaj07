@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashley.
 
-designer × developer  
-I like building things that *look good*, *Feel right*, and *actually work*.
+`designer × developer`  
+`I like building things that *look good*, *Feel right*, and *actually work*.`
 
 -------------------------------------------------------------------------------------
 what i do
@@ -27,6 +27,6 @@ motion design
 git · github · agile · jest · java swing · monogame
 
 -------------------------------------------------------------------------------------
-How to reach me:
-Email: ashleyannajohn07@gmail.com | LinkedIn: https://www.linkedin.com/in/ashleyannajohn | Portfolio: Coming Soon
+`How to reach me:
+Email: ashleyannajohn07@gmail.com | LinkedIn: https://www.linkedin.com/in/ashleyannajohn | Portfolio: Coming Soon`
 
