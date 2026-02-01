@@ -12,7 +12,7 @@ what i do
 tech stack
 
 **languages & frameworks**  
-kotlin · javascript · html/css · java · c/c++ · sql · dart · react · node.js · flutter
+kotlin · javascript · html/css · java · c# · sql · dart · react · node.js · flutter
 
 **design & creative**  
 figma · adobe creative suite · procreate · canva · capcut
