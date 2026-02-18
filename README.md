@@ -1,7 +1,7 @@
 ## Hi there, I'm Ashley.
 
 `designer × developer`  
-`I like building things that *look good*, *Feel right*, and *actually work*.`
+`I like building things that look good, Feel right, and actually work.`
 
 -------------------------------------------------------------------------------------
 what i do
